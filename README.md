@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tugalsan
 - 👀 I’m interested in Java, webservices and robotics
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me tugalsan at gmail.com
+- 📫 How to reach me tugalsan at gmail.com (I am not even checking weekly, just keep emailing)
 - 👶 And... I have job and a baby. So dont expect too much from me :..(
 
 For all projects:
